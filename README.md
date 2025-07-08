@@ -100,5 +100,3 @@ For questions or feedback, contact [hagNone](https://github.com/hagNone).
 
 ---
 
-**File reference:**  
-![image1](image1)
